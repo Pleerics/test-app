@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 error logs..1
+=======
+error logs
+>>>>>>> login
